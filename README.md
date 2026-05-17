@@ -48,7 +48,11 @@ To prevent the flight controller from resetting due to voltage sags (brownouts) 
 
 ## 📂 Schematics & Diagrams
 
-*(Updated dual-vehicle schematics will be uploaded here shortly).*
+### Main AUV Power Architecture
+![Main AUV Schematic](AUV_Schematics.png)
+
+### Mini ROV Power Architecture
+![Mini ROV Schematic](MiniROV_Schematics.png)
 
 > **Note:** Due to competition confidentiality guidelines, full proprietary schematics might be limited. The uploaded documents and KiCad/Proteus outputs represent the general architecture, safety protocols, and integration strategy.
 
